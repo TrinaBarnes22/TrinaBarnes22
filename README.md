@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Trina Barnes
-- 👀 I’m interested in ... video games, planning development
-- 🌱 I’m currently learning ... Software Development at WGU
-- 💞️ I’m looking to collaborate on ... anything
-- 📫 How to reach me ... trina.barnes22@gmail.com
+- 👀 I’m interested in software engineering, improv, reading, video games.
+- 🌱 I’m currently studying Software Engineering at WGU
+- 💞️ I’m looking to collaborate on cateloging and productivity software
+- 📫 How to reach me trina.barnes22@gmail.com
 
 <!---
 TrinaBarnes22/TrinaBarnes22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
